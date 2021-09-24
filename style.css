@@ -1,7 +1,7 @@
 body {
   background-color: antiquewhite;
   color: rgb(110, 46, 9);
-  font-size: 20;
+  font-size: 25;
   font-family: "ABeeZee", sans-serif;
 }
 .main-header {
@@ -12,6 +12,36 @@ body {
   border: 3px solid darkgrey;
 }
 
+.post1 {
+  background-color: darkgrey;
+  background-image: url(img/Chickfila\ logo.JPG);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 100px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.post2 {
+  margin-block-start: 100px;
+  text-align: center;
+}
 .background1 {
-  background-color: darkviolet;
+  text-align: center;
+}
+
+.background2 {
+  background-color: darkgrey;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 100px;
+  text-align: center;
+  margin-top: 50px;
+  background-image: url(img/popeyes.png);
+}
+
+.preview-text2 {
+  text-align: center;
 }
