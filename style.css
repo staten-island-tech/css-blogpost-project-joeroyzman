@@ -12,12 +12,12 @@ body {
   border: 3px solid darkgrey;
 }
 
-.post1 {
+.post {
   margin-block-start: 100px;
   text-align: center;
 }
 
-.preview-text1 {
+.preview-text {
   text-align: center;
 }
 
@@ -31,10 +31,6 @@ body {
   margin-top: 50px;
   background-image: url(img/Chickfila\ logo.JPG);
 }
-.post2 {
-  margin-block-start: 100px;
-  text-align: center;
-}
 
 .background2 {
   background-color: darkgrey;
@@ -47,16 +43,11 @@ body {
   background-image: url(img/popeyes.png);
 }
 
-.preview-text2 {
+.preview-text {
   text-align: center;
 }
 
-.post3 {
-  margin-block-start: 100px;
-  text-align: center;
-}
-
-.preview-text3 {
+.preview-text {
   text-align: center;
 }
 
